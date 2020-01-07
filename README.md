@@ -7,4 +7,4 @@ release start tweet ID: 1212933086704308226
 release end tweet ID: 1213606691368919041
 
 
-JSON file has ~18,000 tweets
+JSON file has ~20,000 tweets
